@@ -1,0 +1,32 @@
+body{
+  background-color: black;
+}
+h1#heading{
+  text-align: center;
+  margin: 40px;
+  color: white;
+}
+
+#container{
+  margin: auto;
+   text-align: center;
+   width: 80%;
+   background-color: grey;
+   border-radius: 10px;
+   padding: 20px ;
+}
+
+.input-div{
+  display: inline-block;
+}
+.label{
+ font-size: 20px;
+ 
+}
+
+.inpt{
+  padding: 5px 10px;
+  margin: 10px;
+  font-size: 30px;
+  border-radius: 10px;
+}
